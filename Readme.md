@@ -18,8 +18,8 @@ Thanks for your help keeping this project healthy, Martin!
 
 ## Installation
 
-  - `go get github.com/segmentio/terraform-docs`
-  - [Binaries](https://github.com/segmentio/terraform-docs/releases)
+  - `go get github.com/neodino/terraform-docs`
+  - [Binaries](https://github.com/neodino/terraform-docs/releases)
   - `brew install terraform-docs` (on macOS)
 
 ## Usage
